@@ -1,0 +1,17 @@
+p {
+    font-size: 40px;
+    border: 1px solid green;
+}
+
+.container {
+    font-size: 20px;
+    border: 1px solid red;
+}
+
+.italic {
+    font-style: italic;
+}
+
+#pippo {
+    border: 1px solid blue;
+}
